@@ -270,5 +270,3 @@ Planned future additions may include:
 **Gavin Fogwe**
 
 ---
-
-> A hybrid AWS and GCP infrastructure project designed around secure connectivity, internal-only service protection, observability, controlled ingress, and healthcare-style operational requirements. More documentation and evidence will be added later.
